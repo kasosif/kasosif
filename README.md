@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @kasosif
-- 👀 I’m interested in Laravel Framework  
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Laravel Framework , Java, Spring & Angular
+- 🌱 I’m currently working at Diool Cameroun
 - 📫 How to reach me kasosif@gmail.com
-
-<!---
-kasosif/kasosif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
